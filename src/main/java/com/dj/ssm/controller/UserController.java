@@ -4,4 +4,6 @@ public class UserController {
 
     private String zrshuaige;
 
+
+    private String aa;
 }
