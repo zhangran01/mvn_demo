@@ -7,4 +7,5 @@ public class UserController {
     private Integer id;
     private  Integer userId;
     private String aa;
+    private String bb;
 }
